@@ -1,2 +1,2 @@
-# Analise_Meio_Ambiente
+# Análise do meio ambiente
 Análise gráfica da situação atual do meio ambiente 
